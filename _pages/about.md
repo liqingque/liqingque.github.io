@@ -28,7 +28,7 @@ My research focuses on 3D point cloud processing and its applications in smart a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC 2025</div><img src='images/ppcc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PPCC-CD: Cross-Domain Plant Point Cloud Completion Based on Feature Low-Rank Mapping and Dual Frequency Prompts for Plant Phenotyping Analysis]
